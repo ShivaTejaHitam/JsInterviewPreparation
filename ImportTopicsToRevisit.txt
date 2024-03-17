@@ -1,0 +1,12 @@
+1)Promises
+2)Observables
+2)Callbacks
+3)Async Await
+4)Event Bubbling and capturing
+5)sessions, cookies, storage etc
+6)Regular Expressions
+7)object prototyping
+8)decorators
+9)Event loop,call stack, Event Queue, microtask queue
+10) Debounce and Throttling
+11) Module Pattern
