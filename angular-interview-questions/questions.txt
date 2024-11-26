@@ -1,0 +1,39 @@
+1) What is Angular 
+  Angular is TS based open source framework for building frontend applications in component based approach. 
+2) Explain Angular Architecture.
+  Angular architecture includes following building blocks
+  Modules : An Angular module is a grouping of components, directives, services etc. 
+            An application is divided into logical pieces and each piece of code is called as "module" which perform a single task. 
+  Component : a basic building block of Angular Application. It contains template , control logic and styling 
+  Templates : represents view of angular application. HTML with directives and bindings
+  Services : used to define the logic which can be shared across the applications
+  Metadata(using Decorator) : metadata is the information that is provided to classes in Angular to configure them. They are used at class level.
+  Directive: directive is used to modify the behaviour of elements in DOM. @Directive 
+3) What is Angular CLI ?
+   Angular CLI is a command-line interface for Angular projects that automates tasks 
+  such as project creation, building, testing, and deployment.
+4) Explain lifecycle hooks in Angular .
+    lifecycle hooks are methods used to tap in to different phases of component lifecycle.
+    ngOnInit : 
+5) What is observable ?
+6) What is Rxjs ?
+7) Routing
+8) template driven and reactive forms
+9) @Input and @Output 
+10) two way binding
+11) service in angular
+12) explain the difference between component and directive ?
+    -Directive doesn't have view whereas component must have templateUrl/template.
+    -multiple directives can  be applied to a single DOM element.
+    - Only one component can be present per DOM element	
+13) PIPE
+14) Observables
+15) modules
+16)lazy loading
+17) change detection
+18)zone , ngZone
+19) Angular Security (Advanced)
+    
+
+  
+  
