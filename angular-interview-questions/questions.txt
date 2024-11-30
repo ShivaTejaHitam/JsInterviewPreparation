@@ -11,7 +11,19 @@
   Directive: directive is used to modify the behaviour of elements in DOM. @Directive 
 3) What is Angular CLI ?
    Angular CLI is a command-line interface for Angular projects that automates tasks 
-  such as project creation, building, testing, and deployment.
+   such as project creation, building, testing, and deployment.
+   -- npm install -g @angular/cli
+   -- ng new <project-name>
+   -- ng serve
+   -- ng g c , ng g s , ng g p , ng g m
+   -- ng build compiles the Angular App in to production ready build in dist/ directory
+   -- ng test 
+   -- ng e2e
+   -- ng add <package> Adds new libraries or features to your project with configuration. Eg : ng add @angular/material
+   -- ng lint
+   -- ng update
+   -- ng help
+   -- ng version
 4) Explain lifecycle hooks in Angular .
     lifecycle hooks are methods used to tap in to different phases of component lifecycle.
     ngOnInit : 
