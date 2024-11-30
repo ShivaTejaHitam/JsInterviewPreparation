@@ -46,6 +46,7 @@
 18)zone , ngZone
 19) Angular Security (Advanced)
 20) Error Handling
+21) Signals
 
   
   
