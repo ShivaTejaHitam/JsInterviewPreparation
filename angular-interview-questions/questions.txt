@@ -39,7 +39,7 @@
     -multiple directives can  be applied to a single DOM element.
     - Only one component can be present per DOM element	
 13) PIPE
-14) Observables
+14) Observables, multicasting
 15) modules
 16)lazy loading
 17) change detection
@@ -47,6 +47,7 @@
 19) Angular Security (Advanced)
 20) Error Handling
 21) Signals
+22) service worker, web worker
 
   
   
