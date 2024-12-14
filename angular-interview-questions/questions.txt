@@ -50,6 +50,8 @@
 22) service worker, web worker
 23) Pagination, sorting , lazy loading, AJAX, 
 24) interceptor
+25) Debouncing , throttling
+26) forms
 
   
   
