@@ -49,6 +49,7 @@
 21) Signals
 22) service worker, web worker
 23) Pagination, sorting , lazy loading, AJAX, 
+24) interceptor
 
   
   
