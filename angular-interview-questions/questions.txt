@@ -26,7 +26,14 @@
    -- ng version
 4) Explain lifecycle hooks in Angular .
     lifecycle hooks are methods used to tap in to different phases of component lifecycle.
-    ngOnInit : 
+    ngOnChanges : executed when input bound properties are changed
+    ngOnInit : executed after input bound properties are initialized. executed after first ngOnChanges
+    ngDoCheck : used to handle custom change detection logic
+    ngAfterContentInit : when angular has projected external content in to view for the first time
+    ngAfterContentChecked : called after very change detection cycle for projected content
+    ngAfterViewInit : Invokes after Angular initialized component's view
+    ngAfterViewChecked : Invoked after every change detection cycle for component's view  and child views.
+    ngOnDestroy : called before angular destroy the component.
 5) What is observable ?
 6) What is Rxjs ?
 7) Routing
@@ -38,7 +45,8 @@
     -Directive doesn't have view whereas component must have templateUrl/template.
     -multiple directives can  be applied to a single DOM element.
     - Only one component can be present per DOM element	
-13) PIPE
+13) PIPE 
+    async pipe, custom pipe , inbuilt pipe
 14) Observables, multicasting
 15) modules
 16)lazy loading
